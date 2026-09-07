@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=lOSoja4AAAAJ"
+  googlescholar    : "lOSoja4AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-3951-4469"
+  orcid            : "0000-0002-3951-4469"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/anubhav.chakraborty.2/bibliography/public/"
