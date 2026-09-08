@@ -1,8 +1,6 @@
 # main links
 main:
-  - title: "Homepage"
-    url: "/"
-  - title: "Research Experience"
+    - title: "Research Experience"
     url: "/#research-experience"
   - title: "Patents & Publications"
     url: "/publications/"
