@@ -13,10 +13,12 @@ Molecular biologist and genetic engineer with a PhD in Molecular and Integrative
 ***
 ### Technical Skills & Scientific Capabilities
 
-* **Vector Engineering & Gene Delivery:** Recombinant AAV (rAAV) and lentivirus design and production, Virus-Like Particles (VLPs), Lipid Nanoparticles (LNPs), Nucleofection, Mini-circle production.
-* **Molecular Biology:** CRISPR activation (CRISPRa) and interference (CRISPRi), CRISPR-Cas9/Cas12a gene editing, Chromatin accessibility assays, Protein trans-splicing systems, Advanced molecular cloning, ELISA, Immunoblotting, Immunocytochemistry, RT-qPCR.
-* **In vitro & In Vivo Disease Models:** Primary mouse renal epithelial cell isolation, Primary cell culture (mouse and human), 3D cell culture, Cell line development for disease modeling, Mouse surgical model of ischemia-reperfusion injury, Tissue micro-dissection.
-* **Digital Tools & Lab Software:** Benchling & SnapGene (In silico vector design), LabArchive (Electronic Lab Notebook), GraphPad Prism, Microsoft Office Suite.
+| Category | Domain & Focus | Platforms & Methodologies |
+| :--- | :--- | :--- |
+| **Vector Engineering & Gene Delivery** | Viral & Non-Viral Delivery | Recombinant AAV (rAAV), Lentivirus, Virus-Like Particles (VLPs), Lipid Nanoparticles (LNPs), Nucleofection, Mini-circle production |
+| **Functional Genomics & Molecular Biology** | Genome Editing & Epigenetics | CRISPRa & CRISPRi, CRISPR-Cas9/Cas12a, Chromatin accessibility assays, Protein trans-splicing systems, Advanced cloning |
+| **Disease Modeling & Assays** | In Vitro & In Vivo Systems | Primary renal epithelial culture (mouse/human), 3D cell culture, Cell line derivation, Ischemia-reperfusion injury (IRI) mouse models, Micro-dissection |
+| **Assays & Lab Software** | Molecular Diagnostics & Tools | ELISA, Immunoblotting, Immunocytochemistry, RT-qPCR, Benchling, SnapGene, LabArchive (ELN), GraphPad Prism |
 
 ***
 ### Education & Professional Experience
