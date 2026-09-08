@@ -1,12 +1,14 @@
 # main links
 main:
-  
+     
   - title: "Research Experience"
     url: "/research/"
   - title: "Patents & Publications"
     url: "/publications/"
   - title: "Scientific Communication"
     url: "/talks/"
+  - title: "Honors & Awards"
+    url: "/#honors-and-awards"
   - title: "Leadership Positions"
     url: "/#academic-leadership"
   - title: "Certifications"
