@@ -11,3 +11,8 @@
 .greedy-nav .hidden-links {
   padding: 0 !important;
 }
+/* Fix Table Header Text Contrast in Light and Dark Modes */
+table th {
+  color: #ffffff !important;
+  background-color: #0f4c5c !important; /* Optional: ensures uniform header background color */
+}
