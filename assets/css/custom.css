@@ -15,18 +15,25 @@ table th {
   background-color: #0f4c5c !important;
 }
 
-/* Ensure All 9 Navigation Tabs Stay Visible & Uncollapsed */
+/* Ensure All Navigation Links Stay Visible and Uncollapsed */
 .greedy-nav {
+  position: relative !important;
+  min-width: 100% !important;
   max-width: 100% !important;
-  overflow: visible !important;
 }
 
 .greedy-nav .visible-links {
   display: flex !important;
-  justify-content: flex-start !important;
+  flex-direction: row !important;
   flex-wrap: nowrap !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
   overflow-x: auto !important;
   white-space: nowrap !important;
+}
+
+.greedy-nav .visible-links li {
+  display: inline-block !important;
 }
 
 .greedy-nav a {
@@ -35,10 +42,10 @@ table th {
   margin: 0 !important;
 }
 
+/* Hide the hamburger button entirely */
+.greedy-nav button,
+.greedy-nav .nav__toggle,
 .greedy-nav .hidden-links {
   display: none !important;
-}
-
-.greedy-nav .nav__toggle {
-  display: none !important;
+  visibility: hidden !important;
 }
