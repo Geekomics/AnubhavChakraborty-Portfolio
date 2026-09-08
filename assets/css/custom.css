@@ -15,37 +15,34 @@ table th {
   background-color: #0f4c5c !important;
 }
 
-/* Ensure All Navigation Links Stay Visible and Uncollapsed */
-.greedy-nav {
-  position: relative !important;
-  min-width: 100% !important;
-  max-width: 100% !important;
+/* Custom Navigation Bar Styling (Bypasses Greedy-Nav) */
+.custom-header-nav {
+  width: 100% !important;
+  overflow-x: auto !important;
 }
 
-.greedy-nav .visible-links {
+.custom-header-list {
   display: flex !important;
   flex-direction: row !important;
   flex-wrap: nowrap !important;
   align-items: center !important;
   justify-content: flex-start !important;
-  overflow-x: auto !important;
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
   white-space: nowrap !important;
 }
 
-.greedy-nav .visible-links li {
+.custom-header-list li {
   display: inline-block !important;
+  margin: 0 0.25rem !important;
+  padding: 0 !important;
 }
 
-.greedy-nav a {
-  padding: 0.35rem 0.35rem !important;
-  font-size: 0.78rem !important;
-  margin: 0 !important;
-}
-
-/* Hide the hamburger button entirely */
-.greedy-nav button,
-.greedy-nav .nav__toggle,
-.greedy-nav .hidden-links {
-  display: none !important;
-  visibility: hidden !important;
+.custom-header-list a {
+  font-family: Georgia, "Times New Roman", Times, serif !important;
+  font-size: 0.82rem !important;
+  font-weight: 600 !important;
+  padding: 0.4rem 0.45rem !important;
+  text-decoration: none !important;
 }
