@@ -1,18 +1,44 @@
-/* Navigation Bar Width & Padding Optimization */
-.greedy-nav {
-  max-width: 100% !important;
+/* Universal Font Override for Georgia */
+body, h1, h2, h3, h4, h5, h6, p, li, table, td, th, a, span {
+  font-family: Georgia, "Times New Roman", Times, serif !important;
 }
 
-.greedy-nav a {
-  padding: 0.4rem 0.45rem !important; /* Tightens gap between menu items */
-  font-size: 0.82rem !important;      /* Fits all 9 items across standard screens */
+/* Fix Sidebar Name to Fit Single Line */
+.author__name {
+  white-space: nowrap !important;
+  font-size: 0.95rem !important;
 }
 
-.greedy-nav .hidden-links {
-  padding: 0 !important;
-}
 /* Fix Table Header Text Contrast in Light and Dark Modes */
 table th {
   color: #ffffff !important;
-  background-color: #0f4c5c !important; /* Optional: ensures uniform header background color */
+  background-color: #0f4c5c !important;
+}
+
+/* Ensure All 9 Navigation Tabs Stay Visible & Uncollapsed */
+.greedy-nav {
+  max-width: 100% !important;
+  overflow: visible !important;
+}
+
+.greedy-nav .visible-links {
+  display: flex !important;
+  justify-content: flex-start !important;
+  flex-wrap: nowrap !important;
+  overflow-x: auto !important;
+  white-space: nowrap !important;
+}
+
+.greedy-nav a {
+  padding: 0.35rem 0.35rem !important;
+  font-size: 0.78rem !important;
+  margin: 0 !important;
+}
+
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
+.greedy-nav .nav__toggle {
+  display: none !important;
 }
