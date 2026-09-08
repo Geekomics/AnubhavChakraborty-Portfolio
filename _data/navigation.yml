@@ -1,7 +1,7 @@
 # main links
 main:
    - title: "Research Experience"
-    url: "/#research-experience"
+    url: "/research/"
   - title: "Patents & Publications"
     url: "/publications/"
   - title: "Scientific Communication"
