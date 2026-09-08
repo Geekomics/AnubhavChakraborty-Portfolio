@@ -1,9 +1,9 @@
-/* Fix sidebar name to fit on a single line */
-.author__name {
-  white-space: nowrap !important;
-  font-size: 0.95rem !important; /* Slightly reduces font size so PhD stays on one line */
+/* Navigation Bar Width & Padding Optimization */
+.greedy-nav a {
+  padding: 0.5rem 0.6rem !important; /* Reduces horizontal gap between navigation tabs */
+  font-size: 0.88rem !important;      /* Fits all 9 links cleanly on a single line */
 }
-/* Universal Font Override for Georgia */
-body, h1, h2, h3, h4, h5, h6, p, li, table, td, th, a, span {
-  font-family: Georgia, "Times New Roman", Times, serif !important;
+
+.greedy-nav {
+  max-width: 100% !important;
 }
