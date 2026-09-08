@@ -1,10 +1,16 @@
 # main links
 main:
-    - title: "Research Experience"
+   - title: "Research Experience"
     url: "/#research-experience"
   - title: "Patents & Publications"
     url: "/publications/"
   - title: "Scientific Communication"
     url: "/talks/"
+  - title: "Leadership Positions"
+    url: "/#academic-leadership"
+  - title: "Certifications"
+    url: "/#certifications"
+  - title: "Professional Memberships"
+    url: "/#professional-memberships"
   - title: "CV"
     url: "/cv/"
