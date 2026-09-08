@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Molecular biologist and genetic engineer with a PhD in Molecular and Integrative Physiology (awarded August 2026) and 7 years of research experience specializing in functional genomics, epigenetic regulation, in vitro disease modeling, target discovery, CRISPR-based genome engineering, cellular engineering and viral/non-viral gene delivery platforms. Proven track record in primary cell culture (human & mouse renal epithelial cells), cell line development, cloning, viral (AAV, lentivirus) and non-viral (LNPs, VLPs) delivery systems. AHA Predoctoral Fellow and back-to-back ASN Kidney STARS awardee with a pending US patent for CRISPR-based gene therapy[cite: 4]. Independent researcher who is skilled in complex data analysis, presenting at national conferences, mentoring junior researchers, and collaborating across multidisciplinary teams[cite: 4].
+Molecular biologist and genetic engineer with a PhD in Molecular and Integrative Physiology (awarded August 2026) and 7 years of research experience specializing in functional genomics, epigenetic regulation, in vitro disease modeling, target discovery, CRISPR-based genome engineering, cellular engineering and viral/non-viral gene delivery platforms. Proven track record in primary cell culture (human & mouse renal epithelial cells), cell line development, cloning, viral (AAV, lentivirus) and non-viral (LNPs, VLPs) delivery systems. AHA Predoctoral Fellow and back-to-back ASN Kidney STARS awardee with a pending US patent for CRISPR-based gene therapy. Independent researcher who is skilled in complex data analysis, presenting at national conferences, mentoring junior researchers, and collaborating across multidisciplinary teams.
 
 ***
 
@@ -25,7 +25,7 @@ Molecular biologist and genetic engineer with a PhD in Molecular and Integrative
 
 ### Technical Skills & Scientific Capabilities
 
-* **Vector Engineering & Gene Delivery:** Recombinant AAV (rAAV) and lentivirus design and production, Virus-Like Particles (VLPs), Lipid Nanoparticles (LNPs), Nucleofection, Mini-circle production[cite: 4].
-* **Molecular Biology:** CRISPR activation (CRISPRa) and interference (CRISPRi), CRISPR-Cas9/Cas12a gene editing, Chromatin accessibility assays, Protein trans-splicing systems, Advanced molecular cloning, ELISA, Immunoblotting, Immunocytochemistry, RT-qPCR[cite: 4].
-* **In vitro & In Vivo Disease Models:** Primary mouse renal epithelial cell isolation, Primary cell culture (mouse and human), 3D cell culture, Cell line development for disease modeling, Mouse surgical model of ischemia-reperfusion injury, Tissue micro-dissection[cite: 4].
-* **Digital Tools & Lab Software:** Benchling & SnapGene (In silico vector design), LabArchive (Electronic Lab Notebook), GraphPad Prism, Microsoft Office Suite[cite: 4].
+* **Vector Engineering & Gene Delivery:** Recombinant AAV (rAAV) and lentivirus design and production, Virus-Like Particles (VLPs), Lipid Nanoparticles (LNPs), Nucleofection, Mini-circle production.
+* **Molecular Biology:** CRISPR activation (CRISPRa) and interference (CRISPRi), CRISPR-Cas9/Cas12a gene editing, Chromatin accessibility assays, Protein trans-splicing systems, Advanced molecular cloning, ELISA, Immunoblotting, Immunocytochemistry, RT-qPCR.
+* **In vitro & In Vivo Disease Models:** Primary mouse renal epithelial cell isolation, Primary cell culture (mouse and human), 3D cell culture, Cell line development for disease modeling, Mouse surgical model of ischemia-reperfusion injury, Tissue micro-dissection.
+* **Digital Tools & Lab Software:** Benchling & SnapGene (In silico vector design), LabArchive (Electronic Lab Notebook), GraphPad Prism, Microsoft Office Suite.
