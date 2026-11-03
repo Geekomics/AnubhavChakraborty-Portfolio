@@ -19,9 +19,14 @@ author_profile: true
 
 ### Technical Skills & Scientific Capabilities
 
-| Category | Domain & Focus | Platforms & Methodologies |
-| :--- | :--- | :--- |
-| **Vector Engineering & Gene Delivery** | Viral & Non-Viral Delivery | Recombinant AAV (rAAV), Lentivirus, Virus-Like Particles (VLPs), Lipid Nanoparticles (LNPs), Nucleofection, Mini-circle production |
-| **Functional Genomics & Molecular Biology** | Genome Editing & Epigenetics | CRISPRa & CRISPRi, CRISPR-Cas9/Cas12a, Chromatin accessibility assays, Protein trans-splicing systems, Advanced cloning |
-| **Disease Modeling & Assays** | In Vitro & In Vivo Systems | Primary renal epithelial culture (mouse/human), 3D cell culture, Cell line derivation, Ischemia-reperfusion injury (IRI) mouse models, Micro-dissection |
-| **Assays & Lab Software** | Molecular Diagnostics & Tools | ELISA, Immunoblotting, Immunocytochemistry, RT-qPCR, Benchling, SnapGene, LabArchive (ELN), GraphPad Prism |
+| Category | Skills |
+| :--- | :--- |
+| **Genome Editing & Gene Regulation** | Prime editing<br>CRISPR-Cas9/Cas12a editing<br>CRISPR activation (CRISPRa) and CRISPR interference (CRISPRi)<br>Guide RNA and pegRNA design<br>Reporter-based and arrayed guide RNA screening<br>Genomic DNA extraction and edit validation<br>Chromatin accessibility assays |
+| **Molecular Cloning & Vector Engineering** | Restriction-ligation cloning<br>Gibson assembly<br>Golden Gate / Type IIS cloning<br>Plasmid engineering<br>Mini-circle production<br>Inducible expression systems (IPTG, Tet-On, Tet-Off)<br>Protein & mRNA trans-splicing systems<br>CRISPR ribonucleoprotein (RNP) synthesis<br>Sanger sequencing verification |
+| **Gene Delivery** | rAAV design and production<br>Lentivirus design and production<br>Virus-like particles (VLPs)<br>Nucleofection of RNP, mRNA and plasmid (including arrayed formats)<br>Lipid-based transfection reagents<br>PEI transfection |
+| **RNA Biology** | In vitro transcription of sgRNAs and mRNAs<br>Column-based RNA purification<br>RT-qPCR-based RNA stability assays<br>Synthetic mRNA transfection and protein expression analysis |
+| **Cell Models & Culture** | Primary human and mouse renal epithelial cell isolation and culture<br>Patient-derived primary cells<br>Cryopreservation<br>3D Matrigel culture<br>Hanging-drop spheroids<br>Co-culture and feeder-layer systems<br>Stable and monoclonal cell line generation |
+| **Cell-Based Assays & Phenotyping** | Dose-response and EC50 analysis<br>Viability and cytotoxicity assays (CellTiter-Glo, LDH-Glo, MTT, CCK-8, Alamar Blue)<br>Apoptosis and necroptosis assays (Annexin V, Caspase-3/7, TUNEL)<br>Mitochondrial membrane potential (MitoTracker dyes)<br>ER stress readouts<br>Fluorescent and bioluminescent reporter assays<br>Flow cytometry (GFP/RFP expression on Attune NxT)<br>3D cyst-growth assays |
+| **Molecular & Protein Analysis** | Western blotting<br>ELISA<br>Immunofluorescence and immunocytochemistry<br>RT-qPCR<br>PCR<br>Gel electrophoresis<br>Protein maturation and glycosylation analysis (Endo H, PNGase F) |
+| **Animal Models** | *Hands-on experience from 2017–2019; I can refresh these skills quickly.*<br>Mouse renal ischemia-reperfusion injury surgery<br>Anesthesia<br>Tissue collection and necropsy<br>Tissue microdissection<br>Intraperitoneal injection |
+| **Software & Digital Tools** | Benchling<br>SnapGene<br>GraphPad Prism<br>FlowJo<br>FIJI (microcyst image analysis)<br>Image-Pro Premier<br>LabArchive (ELN)<br>Microsoft Office |
