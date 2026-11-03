@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anubhav Chakraborty, PhD"
+title: "About Anubhav Chakraborty, PhD"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
