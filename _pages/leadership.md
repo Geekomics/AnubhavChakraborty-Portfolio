@@ -1,9 +1,14 @@
 ---
 layout: single
-title: "Leadership Positions"
+title: "Leadership & Credentials"
 permalink: /leadership/
 author_profile: true
+redirect_from:
+  - /certifications/
+  - /memberships/
 ---
+
+### Leadership Positions
 
 | Role / Organization | Description & Responsibilities | Timeline |
 | :--- | :--- | :--- |
@@ -12,3 +17,20 @@ author_profile: true
 | **Interprofessional Committee Member**<br>Student Governing Council, KUMC | Represented graduate student interests across medical and health professions schools, evaluating inter-professional grant proposals and advocating for campus research resources. | Aug 2022 – Aug 2024 |
 | **Organizing Committee Member**<br>3-Minute Thesis, Student Research Forum, KUMC | Directed annual university-wide science communication competitions over a 3-year term, managing judge recruitment, workshop training, and event execution. | Jan 2022 – Dec 2024 |
 | **Chair**<br>8th Genetic Engineering Research Symposium, SRM Institute of Science and Technology | Directed a multi-committee team to execute a national research symposium, managing budget allocation, abstract peer-review, and keynote speaker invitations for 100+ attendees. | Apr 2016 |
+
+***
+
+### Certifications
+
+| Certification Title | Issuing Institution | Verification Link | Year |
+| :--- | :--- | :--- | :--- |
+| **Introduction to Genomic Technologies** | Johns Hopkins University / Coursera | [Credential Verification](https://www.coursera.org/account/accomplishments/verify/66YYT3UT4KTQ) | 2020 |
+| **Epigenetic Control of Gene Expression** | University of Melbourne / Coursera | [Credential Record](https://www.coursera.org/account/accomplishments/records/DX9LW662XBUX) | 2018 |
+
+***
+
+### Professional Memberships
+
+* **American Society of Nephrology (ASN):** Active Member *(2018 – Present)*
+* **American Association for the Advancement of Science (AAAS):** Member *(2024 – 2025)*
+* **American Heart Association (AHA):** Member *(2024 – 2025)*
