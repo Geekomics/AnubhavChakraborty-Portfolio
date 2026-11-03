@@ -1,6 +1,5 @@
 # main links
 main:
-     
   - title: "Research"
     url: "/research/"
   - title: "Publications"
@@ -9,11 +8,7 @@ main:
     url: "/talks/"
   - title: "Honors"
     url: "/honors/"
-  - title: "Leadership"
+  - title: "Leadership & Credentials"
     url: "/leadership/"
-  - title: "Certifications"
-    url: "/certifications/"
-  - title: "Memberships"
-    url: "/memberships/"
   - title: "CV"
     url: "/cv/"
