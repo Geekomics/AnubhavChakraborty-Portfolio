@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Education & Skills"
+    url: "/education-skills/"
   - title: "Research"
     url: "/research/"
   - title: "Publications"
