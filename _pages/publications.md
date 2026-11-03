@@ -5,14 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Pending Patents
+### Patent Applications
 
-* **Chakraborty, A.**, Wallace, D.P., and Yu, A.S.L. "CRISPRa Compositions, Methods of Use Thereof for Treating Polycystic Kidney Disease, and Methods of Making the Same." *U.S. Provisional Patent Application No. 64/034,047*, filed April 9, 2026.
+* **Chakraborty, A.**, Wallace, D.P., and Yu, A.S.L. "CRISPRa Compositions, Methods of Use Thereof for Treating Polycystic Kidney Disease, and Methods of Making the Same." *U.S. Provisional Patent Application No. 64/034,047*, filed April 9, 2026 (patent pending).
 
 ***
 
 ### Peer-Reviewed Journal Articles & Manuscripts
 
+* **Chakraborty, A.**, Varghese, M.M., Wallace, D.P., Ward, C.J., Yu, A.S.L., 2026. CRISPR activation of endogenous *PKD1* increases polycystin-1 levels and suppresses cellular features of ADPKD. *American Journal of Physiology-Renal Physiology*, 331, pp.F685-F699. [DOI: 10.1152/ajprenal.90084.2026](https://doi.org/10.1152/ajprenal.90084.2026) ([bioRxiv preprint](https://doi.org/10.64898/2026.05.23.727418))
 * **Chakraborty, A.** and Yu, A.S.L., 2026. Miniaturization of CRISPRa plasmids for efficient delivery into renal epithelial cells and *Pkd1* transactivation. *Molecular Biology Reports*, 53(707). [DOI: 10.1007/s11033-026-11872-1](https://doi.org/10.1007/s11033-026-11872-1)
 * Thornton, M., Sommer, N., McGonigle, M., Kumar Ram, A., Yerrathota, S., Ehirim, H., Chaturvedi, A., Dinh Phan, J., **Chakraborty, A.**, … Sharma, M., 2025. Notch3 deletion regulates HIV-1 gene expression and systemic inflammation to ameliorate chronic kidney disease. *Disease Models & Mechanisms*, 18(2), p.DMM052056. [DOI: 10.1242/dmm.052056](https://doi.org/10.1242/dmm.052056)
 * **Chakraborty, A.** and Yu, A.S.L., 2025. Prospects for gene therapy in polycystic kidney disease. *Current Opinion in Nephrology and Hypertension*, 34(1), pp.121-127. [DOI: 10.1097/mnh.0000000000001030](https://doi.org/10.1097/mnh.0000000000001030)
@@ -23,10 +24,6 @@ author_profile: true
 
 ***
 
-### Preprints
+### Accepted Manuscripts & Preprints
 
-* **Chakraborty, A.**, Varghese, M.M., Wallace, D.P., Ward, C.J., Yu, A.S.L., 2026. CRISPR activation of endogenous *PKD1* increases polycystin-1 levels and suppresses cellular features of ADPKD. *bioRxiv*. [DOI: 10.64898/2026.05.23.727418](https://doi.org/10.64898/2026.05.23.727418)
-* Nyimanu, D., **Chakraborty, A.**, Parnell, S., Wallace, D. and Yu, A., 2026. Apelin inhibits cyst growth and improves kidney function in mice with polycystic kidney disease. *bioRxiv*. [DOI: 10.64898/2026.03.26.714294](https://doi.org/10.64898/2026.03.26.714294)
-
-
-
+* Nyimanu, D., **Chakraborty, A.**, Parnell, S., Wallace, D. and Yu, A., 2026. Apelin inhibits cyst growth and improves kidney function in mice with polycystic kidney disease. *bioRxiv*. Accepted in *Kidney360* (in press). [DOI: 10.64898/2026.03.26.714294](https://doi.org/10.64898/2026.03.26.714294)
