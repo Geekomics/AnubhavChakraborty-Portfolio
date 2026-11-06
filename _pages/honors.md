@@ -9,6 +9,7 @@ author_profile: true
 
 | Award / Honor | Organization & Details | Year / Timeline |
 | :--- | :--- | :--- |
+| **APSselect Award** | American Physiological Society, for the paper "CRISPR activation of endogenous *PKD1* increases polycystin-1 levels and suppresses cellular features of ADPKD" (*American Journal of Physiology-Renal Physiology*) | Nov 2026 |
 | **AHA Predoctoral Fellowship** | American Heart Association ($71,828 Grant) — [DOI: 10.58275/AHA.24PRE1194472.pc.gr.190750](https://doi.org/10.58275/AHA.24PRE1194472.pc.gr.190750) | Jan 2024 – Dec 2025 |
 | **ASN Kidney STARS Travel Award** | American Society of Nephrology (Kidney Week: Houston, TX & Philadelphia, PA) | 2025, 2023 |
 | **ASN Kidney TREKS Scholar** | MDBIL Research Program, Bar Harbor, ME | 2024 |
