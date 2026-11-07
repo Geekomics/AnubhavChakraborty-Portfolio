@@ -19,5 +19,6 @@ author_profile: true
 | **Second-Best Poster Winner** | Student Research Forum, KUMC | 2023 |
 | **Student Graduate Council Travel Award** | ASN Kidney Week, Orlando, FL | 2022 |
 | **Elsevier Best Research Paper Award** | 43rd Annual Conference of Environmental Mutagen Society of India | 2019 |
+| **CSIR Senior Research Fellowship** | Council of Scientific and Industrial Research, Government of India — nationally competitive research fellowship, held at Vellore Institute of Technology | Dec 2017 – Jun 2019 |
 | **Gold Medalist** | Best Research Paper, SRM University Research Day | 2017 |
 | **Student Athlete** | School Games Federation of India (4 National Field Hockey Championships) | 2006 – 2010 |
