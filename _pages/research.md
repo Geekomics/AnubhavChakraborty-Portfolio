@@ -37,7 +37,7 @@ author_profile: true
 ### Vellore Institute of Technology (VIT)
 **Senior Research Fellow (CSIR)** | *Lab of Dr. Pragasam V* | Tamil Nadu, India *(Dec 2017 – Jun 2019)*
 
-* **Established a mouse model of acute kidney injury:** Built and characterized a renal ischemia-reperfusion injury model, performing surgeries in 50+ mice, including randomization, anesthesia, tissue collection, necropsy, and evaluation of injury.
+* **Established a mouse model of acute kidney injury:** Built and characterized a renal ischemia-reperfusion injury model, performing surgeries in 50+ mice, including randomization, anesthesia, tissue collection, necropsy, and evaluation of injury (Kim1 & Ngal expression, BUN, Creatinine).
 * **Studied epigenetics in kidney injury:** Investigated DNA methylation and demethylation dynamics linked to necroptotic cell death, using 5mC and 5hmC ELISA along with Annexin V, Caspase-3/7, TUNEL, and DNA fragmentation assays.
 * **Supported grants and training:** Helped faculty draft competitive grant proposals and co-directed the thesis work of 4 master's students.
 
